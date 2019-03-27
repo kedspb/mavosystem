@@ -34,6 +34,28 @@
 			"situação": [
 				"recolhidamanutencao"
 			]
+		},
+		{
+			"maquina": [
+				"info0204"
+			],
+			"tombo": [
+				"0123654"
+			],
+			"situação": [
+				"opera"
+			]
+		},
+		{
+			"maquina": [
+				"info0205"
+			],
+			"tombo": [
+				"123456"
+			],
+			"situação": [
+				"opera"
+			]
 		}
 	]
 }
