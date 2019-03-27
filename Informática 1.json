@@ -32,7 +32,7 @@
 				"021365"
 			],
 			"situação": [
-				"recolhidamanutencao"
+				"opera"
 			]
 		},
 		{
@@ -43,6 +43,7 @@
 				"123654"
 			],
 			"situação": [
+				"opera",
 				"opera"
 			]
 		}
