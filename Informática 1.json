@@ -18,37 +18,17 @@
 				"info0101"
 			],
 			"tombo": [
-				"452136"
+				"0123"
 			],
 			"situação": [
-				"sdfgg"
+				"srede"
 			]
 		},
 		{
 			"maquina": [],
 			"tombo": [],
-			"situação": []
-		},
-		{
-			"maquina": [
-				"info0202"
-			],
-			"tombo": [
-				"022312"
-			],
 			"situação": [
 				"opera"
-			]
-		},
-		{
-			"maquina": [
-				"info0303"
-			],
-			"tombo": [
-				"1235456"
-			],
-			"situação": [
-				"srede"
 			]
 		}
 	]
