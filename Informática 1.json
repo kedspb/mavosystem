@@ -25,18 +25,15 @@
 			]
 		},
 		{
-			"maquina": [],
+			"maquina": [
+				"info0203"
+			],
 			"tombo": [
-				"456621"
+				"45621"
 			],
 			"situação": [
 				"recolhidamanutencao"
 			]
-		},
-		{
-			"maquina": [],
-			"tombo": [],
-			"situação": []
 		}
 	]
 }
