@@ -39,6 +39,17 @@
 			"situação": [
 				"opera"
 			]
+		},
+		{
+			"maquina": [
+				"info0303"
+			],
+			"tombo": [
+				"1235456"
+			],
+			"situação": [
+				"srede"
+			]
 		}
 	]
 }
