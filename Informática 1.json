@@ -11,5 +11,23 @@
 	"situação": [
 		"operacional",
 		"operacional"
+	],
+	"novamaquina": [
+		{
+			"maquina": [
+				"info0101"
+			],
+			"tombo": [
+				"452136"
+			],
+			"situação": [
+				"sdfgg"
+			]
+		},
+		{
+			"maquina": [],
+			"tombo": [],
+			"situação": []
+		}
 	]
 }
