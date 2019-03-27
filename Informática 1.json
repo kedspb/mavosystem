@@ -28,6 +28,17 @@
 			"maquina": [],
 			"tombo": [],
 			"situação": []
+		},
+		{
+			"maquina": [
+				"info0202"
+			],
+			"tombo": [
+				"022312"
+			],
+			"situação": [
+				"opera"
+			]
 		}
 	]
 }
