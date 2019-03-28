@@ -21,7 +21,7 @@
 				"0123"
 			],
 			"situação": [
-				"srede"
+				"Operacional"
 			]
 		},
 		{
@@ -32,7 +32,7 @@
 				"45621"
 			],
 			"situação": [
-				"opera"
+				"Sem rede"
 			]
 		},
 		{
@@ -43,7 +43,7 @@
 				"0123654"
 			],
 			"situação": [
-				"opera"
+				"Recolhida a CALIN"
 			]
 		},
 		{
@@ -54,7 +54,7 @@
 				"123456"
 			],
 			"situação": [
-				"opera"
+				"Sem rede"
 			]
 		}
 	]
