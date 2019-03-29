@@ -21,8 +21,13 @@
 				"0123"
 			],
 			"situação": [
-				"Operacional"
-			]
+				"mr"
+			],
+			"icones": {
+				"mouse": [
+					".\\imagens\\hardware\\icons8-rato-48.png"
+				]
+			}
 		},
 		{
 			"maquina": [
@@ -33,7 +38,10 @@
 			],
 			"situação": [
 				"Sem rede"
-			]
+			],
+			"icones": {
+				"mouse": []
+			}
 		},
 		{
 			"maquina": [
@@ -44,7 +52,10 @@
 			],
 			"situação": [
 				"Recolhida a CALIN"
-			]
+			],
+			"icones": {
+				"mouse": []
+			}
 		},
 		{
 			"maquina": [
@@ -55,7 +66,10 @@
 			],
 			"situação": [
 				"Sem rede"
-			]
+			],
+			"icones": {
+				"mouse": []
+			}
 		}
 	]
 }
