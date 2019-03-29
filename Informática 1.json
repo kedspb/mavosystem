@@ -27,7 +27,8 @@
 				"mouse": [
 					".\\imagens\\hardware\\icons8-rato-48.png"
 				]
-			}
+			},
+			"situacao": "Operacional"
 		},
 		{
 			"maquina": [
@@ -41,21 +42,8 @@
 			],
 			"icones": {
 				"mouse": []
-			}
-		},
-		{
-			"maquina": [
-				"info0204"
-			],
-			"tombo": [
-				"0123654"
-			],
-			"situação": [
-				"Recolhida a CALIN"
-			],
-			"icones": {
-				"mouse": []
-			}
+			},
+			"situacao": "Operacional"
 		},
 		{
 			"maquina": [
@@ -69,7 +57,8 @@
 			],
 			"icones": {
 				"mouse": []
-			}
+			},
+			"situacao": "Operacional"
 		}
 	]
 }
