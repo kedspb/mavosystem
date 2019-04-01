@@ -28,7 +28,9 @@
 					".\\imagens\\hardware\\icons8-rato-48.png"
 				]
 			},
-			"situacao": "Operacional"
+			"situacao": {
+				"estado": "recolhida"
+			}
 		},
 		{
 			"maquina": [
@@ -43,7 +45,9 @@
 			"icones": {
 				"mouse": []
 			},
-			"situacao": "Operacional"
+			"situacao": {
+				"estado": "operacional"
+			}
 		},
 		{
 			"maquina": [
@@ -58,7 +62,9 @@
 			"icones": {
 				"mouse": []
 			},
-			"situacao": "Operacional"
+			"situacao": {
+				"estado": "Operacional"
+			}
 		}
 	]
 }
