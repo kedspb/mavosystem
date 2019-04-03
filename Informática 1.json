@@ -31,7 +31,11 @@
 			"situacao": {
 				"estado": "recolhida"
 			},
-			"infos": "Problema na bios da máquina, além de saídas vga defeituosas afffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+			"infos": [
+				"Problema na bios da máquina, além de saídas vga defeituosas afffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+				"placa ruim,",
+				"oblema na bios da máquina, além de saídas vga defeituosas afffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+			]
 		},
 		{
 			"maquina": [
@@ -49,7 +53,10 @@
 			"situacao": {
 				"estado": "off"
 			},
-			"infos": "sem cabo de rede"
+			"infos": [
+				"sem cabo de rede",
+				"em cabo de rede"
+			]
 		},
 		{
 			"maquina": [
@@ -66,7 +73,8 @@
 			},
 			"situacao": {
 				"estado": "Operacional"
-			}
+			},
+			"infos": []
 		}
 	]
 }
