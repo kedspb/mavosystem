@@ -72,10 +72,10 @@
 				"mouse": []
 			},
 			"situacao": {
-				"estado": "operacional"
+				"estado": "off"
 			},
 			"infos": [
-				"ok",
+				"ausencia cabo de rede",
 				"testando",
 				"ssdddffff"
 			]
