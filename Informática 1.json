@@ -72,9 +72,11 @@
 				"mouse": []
 			},
 			"situacao": {
-				"estado": "Operacional"
+				"estado": "operacional"
 			},
-			"infos": []
+			"infos": [
+				"ok"
+			]
 		}
 	]
 }
