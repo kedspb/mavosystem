@@ -47,8 +47,9 @@
 				"mouse": []
 			},
 			"situacao": {
-				"estado": "operacional"
-			}
+				"estado": "off"
+			},
+			"infos": "sem cabo de rede"
 		},
 		{
 			"maquina": [
