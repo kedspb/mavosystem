@@ -29,7 +29,7 @@
 				]
 			},
 			"situacao": {
-				"estado": "off"
+				"estado": "operacional"
 			},
 			"infos": [
 				"\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/",
@@ -52,13 +52,13 @@
 				"mouse": []
 			},
 			"situacao": {
-				"estado": "off"
+				"estado": "operacional"
 			},
 			"infos": [
 				"\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/",
 				"em cabo de rede"
 			],
-			"estado": "operacional"
+			"estado": "recolhida"
 		},
 		{
 			"maquina": [
@@ -74,14 +74,14 @@
 				"mouse": []
 			},
 			"situacao": {
-				"estado": "off"
+				"estado": "operacional"
 			},
 			"infos": [
 				"\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/",
 				"testando",
 				"ssdddffff"
 			],
-			"estado": "recolhida"
+			"estado": "off"
 		}
 	]
 }
