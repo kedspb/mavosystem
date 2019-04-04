@@ -29,10 +29,10 @@
 				]
 			},
 			"situacao": {
-				"estado": "recolhida"
+				"estado": "operacional"
 			},
 			"infos": [
-				"Problema na bios da máquina, além de saídas vga defeituosas afffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+				"\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/",
 				"placa ruim,",
 				"ok"
 			]
@@ -54,7 +54,7 @@
 				"estado": "operacional"
 			},
 			"infos": [
-				"sem cabo de rede",
+				"\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/",
 				"em cabo de rede"
 			]
 		},
@@ -75,7 +75,7 @@
 				"estado": "operacional"
 			},
 			"infos": [
-				"cabo de rede ruim",
+				"\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/",
 				"testando",
 				"ssdddffff"
 			]
