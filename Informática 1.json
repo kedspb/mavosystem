@@ -72,7 +72,7 @@
 				"mouse": []
 			},
 			"situacao": {
-				"estado": "recolhida"
+				"estado": "operacional"
 			},
 			"infos": [
 				"cabo de rede ruim",
