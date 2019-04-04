@@ -29,13 +29,14 @@
 				]
 			},
 			"situacao": {
-				"estado": "operacional"
+				"estado": "off"
 			},
 			"infos": [
 				"\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/",
 				"placa ruim,",
 				"ok"
-			]
+			],
+			"estado": "operacional"
 		},
 		{
 			"maquina": [
@@ -51,12 +52,13 @@
 				"mouse": []
 			},
 			"situacao": {
-				"estado": "operacional"
+				"estado": "off"
 			},
 			"infos": [
 				"\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/",
 				"em cabo de rede"
-			]
+			],
+			"estado": "operacional"
 		},
 		{
 			"maquina": [
@@ -72,13 +74,14 @@
 				"mouse": []
 			},
 			"situacao": {
-				"estado": "operacional"
+				"estado": "off"
 			},
 			"infos": [
 				"\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/",
 				"testando",
 				"ssdddffff"
-			]
+			],
+			"estado": "recolhida"
 		}
 	]
 }
