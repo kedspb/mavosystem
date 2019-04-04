@@ -29,7 +29,7 @@
 				]
 			},
 			"situacao": {
-				"estado": "operacional"
+				"estado": "recolhida"
 			},
 			"infos": [
 				"Problema na bios da máquina, além de saídas vga defeituosas afffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
@@ -51,7 +51,7 @@
 				"mouse": []
 			},
 			"situacao": {
-				"estado": "recolhida"
+				"estado": "operacional"
 			},
 			"infos": [
 				"sem cabo de rede",
@@ -72,7 +72,7 @@
 				"mouse": []
 			},
 			"situacao": {
-				"estado": "off"
+				"estado": "recolhida"
 			},
 			"infos": [
 				"cabo de rede ruim",
