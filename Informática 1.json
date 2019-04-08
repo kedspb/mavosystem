@@ -102,6 +102,13 @@
 			"infos": [
 				"OK"
 			]
+		},
+		{
+			"maquina": "LABINFO01-01",
+			"tombo": "121000",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": []
 		}
 	]
 }
