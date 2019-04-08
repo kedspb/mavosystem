@@ -14,15 +14,6 @@
 	],
 	"novamaquina": [
 		{
-			"maquina": "LABINFO01-10",
-			"tombo": "121623",
-			"situacao": "operacional",
-			"estado": "operacional",
-			"infos": [
-				"OK"
-			]
-		},
-		{
 			"maquina": "LABINFO01-11",
 			"tombo": "121622",
 			"situacao": "operacional",
