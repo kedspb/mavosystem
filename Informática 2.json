@@ -1,0 +1,11 @@
+{
+	"novamaquina": [
+		{
+			"maquina": "INFO02-014",
+			"tombo": "2141242",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": []
+		}
+	]
+}
