@@ -5,7 +5,18 @@
 			"tombo": "2141242",
 			"situacao": "operacional",
 			"estado": "operacional",
-			"infos": []
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "INFO02-02",
+			"tombo": "12111412",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
 		}
 	]
 }
