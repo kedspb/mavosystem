@@ -15,10 +15,10 @@
 	"novamaquina": [
 		{
 			"maquina": [
-				"info0101"
+				"LABINFO01-01"
 			],
 			"tombo": [
-				"0123"
+				"121632"
 			],
 			"situação": [
 				"mr"
@@ -32,7 +32,7 @@
 				"estado": "operacional"
 			},
 			"infos": [
-				"\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/",
+				"OK",
 				"placa ruim,",
 				"ok"
 			],
@@ -40,10 +40,10 @@
 		},
 		{
 			"maquina": [
-				"info0203"
+				"LABINFO01-02"
 			],
 			"tombo": [
-				"45621"
+				"121627"
 			],
 			"situação": [
 				"Sem rede"
@@ -55,18 +55,18 @@
 				"estado": "operacional"
 			},
 			"infos": [
-				"\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/",
+				"OK",
 				"em cabo de rede",
 				"memória com defeito, aguardando chegada"
 			],
-			"estado": "recolhida"
+			"estado": "operacional"
 		},
 		{
 			"maquina": [
-				"info0205"
+				"LABINFO01-03"
 			],
 			"tombo": [
-				"123456"
+				"121631"
 			],
 			"situação": [
 				"Sem rede"
@@ -78,11 +78,155 @@
 				"estado": "operacional"
 			},
 			"infos": [
-				"\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/\\o/",
+				"OK",
 				"testando",
 				"ssdddffff"
 			],
-			"estado": "recolhida"
+			"estado": "operacional"
+		},
+		{
+			"maquina": "LABINFO01-04",
+			"tombo": "121630",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "LABINFO01-05",
+			"tombo": "121629",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "LABINFO01-06",
+			"tombo": "121628",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "LABINFO01-07",
+			"tombo": "121625",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "LABINFO01-08",
+			"tombo": "121626",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "LABINFO01-09",
+			"tombo": "121624",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "LABINFO01-10",
+			"tombo": "121623",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "LABINFO01-11",
+			"tombo": "121622",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "LABINFO01-12",
+			"tombo": "121621",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "LABINFO01-13 ",
+			"tombo": "121619",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "LABINFO01-14",
+			"tombo": "121618",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "LABINFO01-15",
+			"tombo": "121620",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "LABINFO01-16",
+			"tombo": "121617",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "LABINFO01-17",
+			"tombo": "121616",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "LABINFO01-18",
+			"tombo": "121615",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
+		},
+		{
+			"maquina": "LABINFO01-19",
+			"tombo": "121614",
+			"situacao": "operacional",
+			"estado": "operacional",
+			"infos": [
+				"OK"
+			]
 		}
 	]
 }
