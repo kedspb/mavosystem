@@ -38,9 +38,10 @@
 			"maquina": "LABINFO01-13 ",
 			"tombo": "121619",
 			"situacao": "off",
-			"estado": "operacional",
+			"estado": "off",
 			"infos": [
-				"OK"
+				"OK",
+				"sem cabos"
 			]
 		},
 		{
