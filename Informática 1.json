@@ -16,8 +16,8 @@
 		{
 			"maquina": "LABINFO01-11",
 			"tombo": "121622",
-			"situacao": "recolhida",
-			"estado": "recolhida",
+			"situacao": "off",
+			"estado": "off",
 			"infos": [
 				"OK",
 				"sem cabo",
@@ -27,16 +27,17 @@
 		{
 			"maquina": "LABINFO01-12",
 			"tombo": "121621",
-			"situacao": "recolhida",
-			"estado": "operacional",
+			"situacao": "off",
+			"estado": "recolhida",
 			"infos": [
-				"OK"
+				"OK",
+				"fonte queimada"
 			]
 		},
 		{
 			"maquina": "LABINFO01-13 ",
 			"tombo": "121619",
-			"situacao": "recolhida",
+			"situacao": "off",
 			"estado": "operacional",
 			"infos": [
 				"OK"
@@ -45,7 +46,7 @@
 		{
 			"maquina": "LABINFO01-14",
 			"tombo": "121618",
-			"situacao": "recolhida",
+			"situacao": "off",
 			"estado": "operacional",
 			"infos": [
 				"OK"
@@ -54,7 +55,7 @@
 		{
 			"maquina": "LABINFO01-15",
 			"tombo": "121620",
-			"situacao": "recolhida",
+			"situacao": "off",
 			"estado": "operacional",
 			"infos": [
 				"OK"
@@ -63,7 +64,7 @@
 		{
 			"maquina": "LABINFO01-16",
 			"tombo": "121617",
-			"situacao": "recolhida",
+			"situacao": "off",
 			"estado": "operacional",
 			"infos": [
 				"OK"
@@ -72,7 +73,7 @@
 		{
 			"maquina": "LABINFO01-17",
 			"tombo": "121616",
-			"situacao": "recolhida",
+			"situacao": "off",
 			"estado": "operacional",
 			"infos": [
 				"OK"
@@ -81,7 +82,7 @@
 		{
 			"maquina": "LABINFO01-18",
 			"tombo": "121615",
-			"situacao": "recolhida",
+			"situacao": "off",
 			"estado": "operacional",
 			"infos": [
 				"OK"
@@ -90,7 +91,7 @@
 		{
 			"maquina": "LABINFO01-19",
 			"tombo": "121614",
-			"situacao": "recolhida",
+			"situacao": "off",
 			"estado": "operacional",
 			"infos": [
 				"OK"
@@ -99,7 +100,7 @@
 		{
 			"maquina": "LABINFO01-01",
 			"tombo": "121000",
-			"situacao": "recolhida",
+			"situacao": "off",
 			"estado": "operacional",
 			"infos": []
 		}
