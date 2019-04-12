@@ -28,7 +28,7 @@
 			"maquina": "LABINFO01-12",
 			"tombo": "121621",
 			"situacao": "off",
-			"estado": "recolhida",
+			"estado": "operacional",
 			"infos": [
 				"OK",
 				"fonte queimada"
