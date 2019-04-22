@@ -1,8 +1,8 @@
 {
 	"novamaquina": [
 		{
-			"situacao": "operacional",
-			"estado": "operacional",
+			"situacao": "none",
+			"estado": "none",
 			"infos": []
 		}
 	]
